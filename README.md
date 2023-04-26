@@ -1,8 +1,3 @@
-# JenkinsWar
-Example of Deploy War File on Tomcat 8 using Jenkins
+## DevOps Project for Beginners   
 
-# This repo will help you with automating the deployment of War file on Tomcat using Jenkins.
-
-# Please find in detailed steps:
-
-http://cmstoddler.com/deploy-war-file-tomcat-8-using-jenkins-maven-and-github
+[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
